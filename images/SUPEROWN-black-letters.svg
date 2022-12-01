@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="260px" height="49px" viewBox="0 0 260 49" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Artboard Copy</title>
+    <g id="Artboard-Copy" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect fill="#FFFFFF" x="0" y="0" width="260" height="49"></rect>
+        <g id="Logo" transform="translate(-0.406957, 1.593043)">
+            <rect id="Rectangle" fill="#FFFFFF" x="21.406957" y="5.40695696" width="216" height="38"></rect>
+            <g id="Group" transform="translate(21.906957, 21.906957) rotate(47.000000) translate(-21.906957, -21.906957) translate(6.406957, 6.406957)" fill="#000000">
+                <rect id="Rectangle" x="0" y="10.08" width="10.08" height="10.08"></rect>
+                <rect id="Rectangle" x="10.08" y="0" width="10.08" height="10.08"></rect>
+                <rect id="Rectangle" x="10.08" y="20.16" width="10.08" height="10.08"></rect>
+                <rect id="Rectangle" x="20.16" y="10.08" width="10.08" height="10.08"></rect>
+            </g>
+            <text id="SUPEROWN" font-family="RobotoSlab-Regular, Roboto Slab" font-size="38" font-weight="normal" line-spacing="40" fill="#000000">
+                <tspan x="40.406957" y="40.406957">SUPEROWN</tspan>
+            </text>
+        </g>
+    </g>
+</svg>
